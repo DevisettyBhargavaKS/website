@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(72, 193, 233);
+}
+.title{
+    text-align: center;
+    letter-spacing: 5px;
+}
+.row{
+    padding-top: 10px;
+}
